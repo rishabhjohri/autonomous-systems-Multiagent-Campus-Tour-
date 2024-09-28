@@ -1,0 +1,4 @@
+pygame==2.6.0
+transformers>=4.24.0
+networkx>=2.8
+crewai
